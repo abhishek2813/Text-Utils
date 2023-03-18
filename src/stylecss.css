@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+
+}
+.box{
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: row;
+    
+}
+img{
+    width: 400px;
+}
